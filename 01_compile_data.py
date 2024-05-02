@@ -28,7 +28,7 @@ def write_file(filename, data):
 
 
 YEARS = [2023, 2024]
-MONTHS = {2023: ["07"], 2024: []}
+MONTHS = {2023: [], 2024: ["02", "03"]}
 BUS_SETS = True
 FERRY_SETS = True
 IGNORE_NONREV = True
